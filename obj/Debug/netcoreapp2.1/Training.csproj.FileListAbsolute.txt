@@ -1,0 +1,11 @@
+C:\Users\meghana.r\Documents\Training\obj\Debug\netcoreapp2.1\Training.csprojAssemblyReference.cache
+C:\Users\meghana.r\Documents\Training\obj\Debug\netcoreapp2.1\Training.csproj.CoreCompileInputs.cache
+C:\Users\meghana.r\Documents\Training\obj\Debug\netcoreapp2.1\Training.AssemblyInfoInputs.cache
+C:\Users\meghana.r\Documents\Training\obj\Debug\netcoreapp2.1\Training.AssemblyInfo.cs
+C:\Users\meghana.r\Documents\Training\bin\Debug\netcoreapp2.1\Training.deps.json
+C:\Users\meghana.r\Documents\Training\bin\Debug\netcoreapp2.1\Training.runtimeconfig.json
+C:\Users\meghana.r\Documents\Training\bin\Debug\netcoreapp2.1\Training.runtimeconfig.dev.json
+C:\Users\meghana.r\Documents\Training\bin\Debug\netcoreapp2.1\Training.dll
+C:\Users\meghana.r\Documents\Training\bin\Debug\netcoreapp2.1\Training.pdb
+C:\Users\meghana.r\Documents\Training\obj\Debug\netcoreapp2.1\Training.dll
+C:\Users\meghana.r\Documents\Training\obj\Debug\netcoreapp2.1\Training.pdb
